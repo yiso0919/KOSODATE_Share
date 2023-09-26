@@ -1,0 +1,3 @@
+OPENAI_API_KEY =""
+# AIの最大文字数 
+MAX_ANS =150
